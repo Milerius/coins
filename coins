@@ -1697,7 +1697,8 @@
 		}
 	},
 	{
-    "coin": "INK",
+    "coin": "INK-QRC",
+    "gui_coin": "INK",
     "name": "qtum",
     "fname": "ink coin",
     "rpcport": 3889,
@@ -1717,7 +1718,8 @@
     "decimals": 9
   },
   {
-    "coin": "FENIX",
+    "coin": "FENIX-QRC",
+    "gui_coin": "FENIX",
     "name": "qtum",
     "fname": "fenix.cash",
     "rpcport": 3889,
@@ -1737,7 +1739,8 @@
     "decimals": 18
   },
   {
-    "coin": "SPC",
+    "coin": "SPC-QRC",
+    "gui_coin": "SPC",
     "name": "qtum",
     "fname": "spacecash",
     "rpcport": 3889,
@@ -1757,7 +1760,8 @@
     "decimals": 8
   },
   {
-    "coin": "BOT",
+    "coin": "BOT-QRC",
+    "gui_coin": "BOT",
     "name": "qtum",
     "fname": "bodhi token",
     "rpcport": 3889,
@@ -1777,7 +1781,8 @@
     "decimals": 8
   },
   {
-    "coin": "HPY",
+    "coin": "HPY-QRC",
+    "gui_coin": "HPY",
     "name": "qtum",
     "fname": "hyperpay",
     "rpcport": 3889,
@@ -1797,7 +1802,8 @@
     "decimals": 8
   },
   {
-    "coin": "AWR",
+    "coin": "AWR-QRC",
+    "gui_coin": "AWR",
     "name": "qtum",
     "fname": "aware token",
     "rpcport": 3889,
@@ -1817,7 +1823,8 @@
     "decimals": 8
   },
   {
-    "coin": "HLC",
+    "coin": "HLC-QRC",
+    "gui_coin": "HLC",
     "name": "qtum",
     "fname": "halal chain",
     "rpcport": 3889,
@@ -1837,7 +1844,8 @@
     "decimals": 9
   },
   {
-    "coin": "MED",
+    "coin": "MED-QRC",
+    "gui_coin": "MED",
     "name": "qtum",
     "fname": "med token",
     "rpcport": 3889,
@@ -1857,7 +1865,8 @@
     "decimals": 8
   },
   {
-    "coin": "LSTR",
+    "coin": "LSTR-QRC",
+    "gui_coin": "LSTR",
     "name": "qtum",
     "fname": "luna stars",
     "rpcport": 3889,
@@ -1877,7 +1886,8 @@
     "decimals": 8
   },
   {
-    "coin": "QBT",
+    "coin": "QBT-QRC",
+    "gui_coin": "QBT",
     "name": "qtum",
     "fname": "qbt",
     "rpcport": 3889,
@@ -1897,7 +1907,8 @@
     "decimals": 8
   },
   {
-    "coin": "PLY",
+    "coin": "PLY-QRC",
+    "gui_coin": "PLY",
     "name": "qtum",
     "fname": "playcoin",
     "rpcport": 3889,
@@ -1917,7 +1928,8 @@
     "decimals": 9
   },
   {
-    "coin": "TSL",
+    "coin": "TSL-QRC",
+    "gui_coin": "TSL",
     "name": "qtum",
     "fname": "tesla",
     "rpcport": 3889,
@@ -1937,7 +1949,8 @@
     "decimals": 18
   },
   {
-    "coin": "OC",
+    "coin": "OC-QRC",
+    "gui_coin": "OC",
     "name": "qtum",
     "fname": "ocash",
     "rpcport": 3889,
@@ -1957,7 +1970,8 @@
     "decimals": 8
   },
   {
-    "coin": "ENT",
+    "coin": "ENT-QRC",
+    "gui_coin": "ENT",
     "name": "qtum",
     "fname": "entertainment cash",
     "rpcport": 3889,
@@ -1977,7 +1991,8 @@
     "decimals": 8
   },
   {
-    "coin": "CFun",
+    "coin": "CFun-QRC",
+    "gui_coin": "CFun",
     "name": "qtum",
     "fname": "cfun token",
     "rpcport": 3889,
@@ -1997,7 +2012,8 @@
     "decimals": 9
   },
   {
-    "coin": "PUT",
+    "coin": "PUT-QRC",
+    "gui_coin": "PUT",
     "name": "qtum",
     "fname": "profile utility token",
     "rpcport": 3889,
@@ -2017,7 +2033,8 @@
     "decimals": 8
   },
   {
-    "coin": "EPC",
+    "coin": "EPC-QRC",
+    "gui_coin": "EPC",
     "name": "qtum",
     "fname": "epc",
     "rpcport": 3889,
@@ -2037,7 +2054,8 @@
     "decimals": 18
   },
   {
-    "coin": "ZAT",
+    "coin": "ZAT-QRC",
+    "gui_coin": "ZAT",
     "name": "qtum",
     "fname": "zatgo token",
     "rpcport": 3889,
@@ -2057,27 +2075,8 @@
     "decimals": 8
   },
   {
-    "coin": "EPC",
-    "name": "qtum",
-    "fname": "epc",
-    "rpcport": 3889,
-    "mm2": 1,
-    "required_confirmations": 3,
-    "protocol": {
-      "type": "QRC20",
-      "protocol_data": {
-        "platform": "QTUM",
-        "contract_address": "0xa9a6d22880065c9388ce182be16ab8d15e387133"
-      }
-    },
-    "pubtype": 58,
-    "p2shtype": 50,
-    "wiftype": 128,
-    "segwit": true,
-    "decimals": 18
-  },
-  {
-    "coin": "WID",
+    "coin": "WID-QRC",
+    "gui_coin": "WID",
     "name": "qtum",
     "fname": "winechain",
     "rpcport": 3889,
