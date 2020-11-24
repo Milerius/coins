@@ -1991,8 +1991,8 @@
     "decimals": 8
   },
   {
-    "coin": "CFun-QRC",
-    "gui_coin": "CFun",
+    "coin": "CFUN-QRC",
+    "gui_coin": "CFUN",
     "name": "qtum",
     "fname": "cfun token",
     "rpcport": 3889,
